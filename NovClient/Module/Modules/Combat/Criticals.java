@@ -123,7 +123,7 @@ public class Criticals extends Module {
 					Crit2(new Double[] {0.419999986886978,0.3331999936342235 });
 					break;
 				case "Hypixel":
-					Crit2(new Double[] {0.0211521, 0.1239810, 0.0005123});
+					Crit2(new Double[] {0.001, 0.02114514191981020070505, 0.0200705055201314});
 					break;
 				}
 
